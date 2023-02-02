@@ -1,0 +1,41 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: C:\Users\elimr\AppData\Local\R\win-library\4.2\stevetemplates\rmarkdown\templates\cv\resources\template.tex
+geometry: margin=1in
+
+title: "CV"
+author: Eli Robinson
+
+jobtitle: "Student, Cornell University"
+address: "Cornell University, 215 Garden Ave, Ithaca, NY, 14850"
+fontawesome: yes
+email: emr255@cornell.edu
+github: Eli-Robinson
+phone: "(123) 456 7890"
+#web: guinness.com
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Experience and Skills
+* 3 years of experience in taming wild Jaguars
+* Professional used car dealer Some stats
+    + 450 cars sold
+    + Over $5m profit on sold cars
+* Can Run a 10 minute mile
+    
+# Education
+* 2005-2008 Beverly J Martin Elementary
+* 2008-2015 Montessori School of Ithaca
+    + 2008 - 2012 Upper Level
+    + 2012-2015 Middle School
+* 2015 - 2018 Ithaca High school
