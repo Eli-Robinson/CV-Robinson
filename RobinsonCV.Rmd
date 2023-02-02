@@ -34,14 +34,14 @@ urlcolor: blue
     + Ice on pavement (somewhat dangerous)
     + Water-park slides
     + Playground Slides
-* Can Run under a 10 minute mil
+* Can Run under a 10 minute mile
     
 # Fun Facts
 * I was Born in Ithaca!
 * I really like crucnchy snow under my feet
 * Currently trying to learn about country capitals and major cities of the world
 
-## **A picture of my cat!**
+## **A picture of my family cat, Willow!**
 ```{r, fig.align="center",out.width = "40%",out.height="40%", out.extra='angle=270',eval=TRUE, echo=FALSE}
 knitr::include_graphics("./cat.jpg")
 ```
