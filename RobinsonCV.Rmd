@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: .\template.tex
+    template: template.tex
 geometry: margin=1in
 
 title: "CV"
@@ -26,11 +26,7 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-```{r, eval=TRUE, echo=FALSE}
-library(knitr)    # For knitting document and include_graphics function
-library(ggplot2)  # For plotting
-library(png)      # For grabbing the dimensions of png files
-```
+
 # Experience and Skills
 * 15 years of experience kicking rocks to keep them going while walking
 * Professional at sliding, some examples include
