@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: C:\Users\elimr\AppData\Local\R\win-library\4.2\stevetemplates\rmarkdown\templates\cv\resources\template.tex
+    template: .\template.tex
 geometry: margin=1in
 
 title: "CV"
@@ -26,16 +26,32 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+```{r, eval=TRUE, echo=FALSE}
+library(knitr)    # For knitting document and include_graphics function
+library(ggplot2)  # For plotting
+library(png)      # For grabbing the dimensions of png files
+```
 # Experience and Skills
-* 3 years of experience in taming wild Jaguars
-* Professional used car dealer Some stats
-    + 450 cars sold
-    + Over $5m profit on sold cars
-* Can Run a 10 minute mile
+* 15 years of experience kicking rocks to keep them going while walking
+* Professional at sliding, some examples include
+    + Socks on wood floox
+    + Ice on pavement (somewhat dangerous)
+    + Water-park slides
+    + Playground Slides
+* Can Run under a 10 minute mil
     
-# Education
-* 2005-2008 Beverly J Martin Elementary
-* 2008-2015 Montessori School of Ithaca
-    + 2008 - 2012 Upper Level
-    + 2012-2015 Middle School
-* 2015 - 2018 Ithaca High school
+# Fun Facts
+* I was Born in Ithaca!
+* I really like crucnchy snow under my feet
+* Currently trying to learn about country capitals and major cities of the world
+
+## **A picture of my cat!**
+```{r, fig.align="center",out.width = "40%",out.height="40%", out.extra='angle=270',eval=TRUE, echo=FALSE}
+knitr::include_graphics("./cat.jpg")
+```
+# Favorite Equation
+My Favorite equation is 
+$$
+e ^ {i\pi} + 1 = 0
+$$
+I like this equation because the derivation is relatively simple to comprehend and it is really cool to see some of th most interesting numbers such as e, i, pi, 0 and 1 all incorporated into the same equation.

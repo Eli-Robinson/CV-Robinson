@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.26)  2 FEB 2023 12:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.2)  2 FEB 2023 13:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **RobinsonCV.tex
 (./RobinsonCV.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-01-24> (c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2023-02-01> (c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
@@ -679,26 +679,38 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 130.
 
+LaTeX Font Warning: Font shape `T1/pplj/b/sc' undefined
+(Font)              using `T1/pplj/b/n' instead on input line 181.
+
+<./cat.jpg, id=26, 4047.12pt x 3035.34pt>
+File: ./cat.jpg Graphic file (type jpg)
+<use ./cat.jpg>
+Package pdftex.def Info: ./cat.jpg  used on input line 183.
+(pdftex.def)             Requested size: 187.85567pt x 260.15416pt.
+
 AED: lastpage setting LastPage
 [1
 
-{c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./RobinsonCV.aux)
+{c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./cat.jpg>] (./RobinsonCV.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `RobinsonCV.out' has not changed.
-(rerunfilecheck)             Checksum: A1BB7C369CB247C943464EC280A1082D;244.
+(rerunfilecheck)             Checksum: 2355FFFE4F26BCCB69D60D5772910FDE;545.
  ) 
 Here is how much of TeX's memory you used:
- 24078 strings out of 478025
- 448945 string characters out of 5838745
- 1858299 words of memory out of 5000000
- 43789 multiletter control sequences out of 15000+600000
- 539908 words of font info for 76 fonts, out of 8000000 for 9000
+ 24117 strings out of 478026
+ 449390 string characters out of 5838750
+ 1861340 words of memory out of 5000000
+ 43809 multiletter control sequences out of 15000+600000
+ 548554 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,11n,118p,1022b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on RobinsonCV.pdf (1 page, 63285 bytes).
+ 117i,11n,118p,1022b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} <c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/elimr/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on RobinsonCV.pdf (1 page, 1435678 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 29 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 50 words of extra memory for PDF output out of 10000 (max. 10000000)
 
